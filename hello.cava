@@ -2,7 +2,7 @@ package test;
 
 class hello {
     static int main() {
-        return 0;
+        System.println("hello world!");
     }
 }
 
