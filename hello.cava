@@ -1,9 +1,9 @@
 package test;
 
 class hello {
+    MFloat ref;
     static int main() {
         System.println("hello world!");
     }
 }
 
-MFloat 
